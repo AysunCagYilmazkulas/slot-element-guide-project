@@ -1,7 +1,3 @@
-# slot-element-guide-project
-A slot game project based on the Slot Element Guide. Includes par sheet analysis, paytables, and simulations.
-
-
 # Slot Element Guide - Slot Game Project
 
 This project is designed to study and test the fundamental principles of slot machine design. It is based on examples from the *Slot Element Guide* and includes pay tables, symbols, and game mechanics.
