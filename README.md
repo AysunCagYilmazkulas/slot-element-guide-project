@@ -21,6 +21,10 @@ This project is designed to study and test the fundamental principles of slot ma
 2. Review the symbols and pay tables to understand game mechanics.
 3. Run the simulations to analyze the payout distributions.
 
+## Summary
+
+<img width="872" alt="Slot Element Guide Summary" src="https://github.com/user-attachments/assets/6108cc04-38b5-48e3-93b2-4eb7b5f7cb32" />
+
 ## Requirements
 
 To run this project, install the following dependencies:
